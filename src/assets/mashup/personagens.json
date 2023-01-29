@@ -1,0 +1,809 @@
+[
+    {
+        "grupos": [
+            {
+                "opcao": "Lanterna Verde(Liga da Justiça)"
+            },
+            {
+                "opcao": "John Wick(De Volta ao Jogo)"
+            }
+        ]
+        
+    },
+    {
+        "grupo": 1,
+        "opcao": "John Wick(De Volta ao Jogo)"
+    },
+    {
+        "grupo": 1,
+        "opcao": "Usagi Tsuniko(Sailor Moon)"
+    },
+    {
+        "grupo": 1,
+        "opcao": "Eleven(Starnger Things)"
+    },
+    {
+        "grupo": 1,
+        "opcao": "Lara Croft(Tomb Raider 2)"
+    },
+    {
+        "grupo": 1,
+        "opcao": "Batman(Cavaleiro das Trevas)"
+    },
+    {
+        "grupo": 1,
+        "opcao": "Jack Sparrow(Piratas do Caribe)"
+    },
+    {
+        "grupo": 1,
+        "opcao": "Saitama Sama(One Punch Man)"
+    },
+    {
+        "grupo": 1,
+        "opcao": "Talia Al Ghul(Batman)"
+    },
+    {
+        "grupo": 1,
+        "opcao": "Mario(Super Mario Bros.)"
+    },
+    {
+        "grupo": 1,
+        "opcao": "Gavião Arqueiro(Vingadores)"
+    },
+    {
+        "grupo": 1,
+        "opcao": "Richard 'Rick' O'Connel (A Múmia)"
+    },
+    {
+        "grupo": 1,
+        "opcao": "Goku(Dragon Ball Z)"
+    },
+    {
+        "grupo": 1,
+        "opcao": "Dexter(A Mão Esquerda de Deus)"
+    },
+    {
+        "grupo": 1,
+        "opcao": "Kratos(God Of War)"
+    },
+    {
+        "grupo": 1,
+        "opcao": "Spawn(Spawn, Image)"
+    },
+    {
+        "grupo": 1,
+        "opcao": "Aragorn(Senhor dos Anéis)"
+    },
+    {
+        "grupo": 1,
+        "opcao": "Sakura(Sakura Card Captors)"
+    },
+    {
+        "grupo": 1,
+        "opcao": "Dean Winchester(Supernatural)"
+    },
+    {
+        "grupo": 1,
+        "opcao": "Link(Ocarina Of Time)"
+    },
+    {
+        "grupo": 2,
+        "opcao": "Thor (Vingadores)"
+    },
+    {
+        "grupo": 2,
+        "opcao": "Groot (Guardiões da Galáxia)"
+    },
+    {
+        "grupo": 2,
+        "opcao": "Seiya de Peg.(Cavaleiros do Zodíaco)"
+    },
+    {
+        "grupo": 2,
+        "opcao": "Mestre Yoda (Star Wars)"
+    },
+    {
+        "grupo": 2,
+        "opcao": "Sub Zero (Mortal Kombat)"
+    },
+    {
+        "grupo": 2,
+        "opcao": "Hellboy (Hellboy)"
+    },
+    {
+        "grupo": 2,
+        "opcao": "Capitão Kirk (Star Trek)"
+    },
+    {
+        "grupo": 2,
+        "opcao": "Pato Donald (Ducktales)"
+    },
+    {
+        "grupo": 2,
+        "opcao": "Charlie Harper (2 Homens e Meio)"
+    },
+    {
+        "grupo": 2,
+        "opcao": "Luigi (Super Mario Bros.)"
+    },
+    {
+        "grupo": 2,
+        "opcao": "Aquaman (Liga da Justiça)"
+    },
+    {
+        "grupo": 2,
+        "opcao": "Ellen Rippley (Alien: Oitavo Passageiro)"
+    },
+    {
+        "grupo": 2,
+        "opcao": "Mabel Pines (Gravity Falls)"
+    },
+    {
+        "grupo": 2,
+        "opcao": "Sheldon (The Big Bang Theory)"
+    },
+    {
+        "grupo": 2,
+        "opcao": "Shao Khan (Mortal Kombat)"
+    },
+    {
+        "grupo": 2,
+        "opcao": "Drácula (Bram Stoker)"
+    },
+    {
+        "grupo": 2,
+        "opcao": "John McClane (Duro de Matar)"
+    },
+    {
+        "grupo": 2,
+        "opcao": "Pica-Pau (Show do Pica-Pau)"
+    },
+    {
+        "grupo": 2,
+        "opcao": "Jake Peralta (Brooklyn 99)"
+    },
+    {
+        "grupo": 2,
+        "opcao": "Cloud Strife (Final Fantasy VII)"
+    },
+    {
+        "grupo": 3,
+        "opcao": "Sam Winchester (Supernatural)"
+    },
+    {
+        "grupo": 3,
+        "opcao": "Richard \"Rick\" Deckard (Blade Runner)"
+    },
+    {
+        "grupo": 3,
+        "opcao": "Coragem (Coragem: O Cão Covarde)"
+    },
+    {
+        "grupo": 3,
+        "opcao": "Smeagol (Senhor dos Anéis)"
+    },
+    {
+        "grupo": 3,
+        "opcao": "Triss Marigold (The Witcher)"
+    },
+    {
+        "grupo": 3,
+        "opcao": "Batman (Liga da Justiça)"
+    },
+    {
+        "grupo": 3,
+        "opcao": "Gandalf, O Cinzento (Senhor dos Anéis)"
+    },
+    {
+        "grupo": 3,
+        "opcao": "Mickey Mouse (Mickey Mouse)"
+    },
+    {
+        "grupo": 3,
+        "opcao": "Jackson \"Jax\" Teller (Sons Of Anarchy)"
+    },
+    {
+        "grupo": 3,
+        "opcao": "Pyramid Head (Silent Hill 2)"
+    },
+    {
+        "grupo": 3,
+        "opcao": "Asa Noturna (Batman)"
+    },
+    {
+        "grupo": 3,
+        "opcao": "Snake Piiskken (Fuga de Hollywood)"
+    },
+    {
+        "grupo": 3,
+        "opcao": "Godzilla (Planeta dos Monstros)"
+    },
+    {
+        "grupo": 3,
+        "opcao": "Walter White (Breaking Bad)"
+    },
+    {
+        "grupo": 3,
+        "opcao": "Gordon Freeman (Half Life)"
+    },
+    {
+        "grupo": 3,
+        "opcao": "Era Venenosa (Batman)"
+    },
+    {
+        "grupo": 3,
+        "opcao": "Emmett Brown (De Volta Para O Futuro)"
+    },
+    {
+        "grupo": 3,
+        "opcao": "Rey Skywalker (Star Wars)"
+    },
+    {
+        "grupo": 3,
+        "opcao": "Lucifer (Série, Lucifer)"
+    },
+    {
+        "grupo": 3,
+        "opcao": "Sonic (Sonic 3, Sonic The Hedghog)"
+    },
+    {
+        "grupo": 4,
+        "opcao": "Galadriel (Senhor dos Anéis)"
+    },
+    {
+        "grupo": 4,
+        "opcao": "Shiryu de Drag. (Cavaleiro dos Zodíaco)"
+    },
+    {
+        "grupo": 4,
+        "opcao": "Neo (The Matrix)"
+    },
+    {
+        "grupo": 4,
+        "opcao": "John Constantine (Hellblazer)"
+    },
+    {
+        "grupo": 4,
+        "opcao": "Donald Draper (MadMen)"
+    },
+    {
+        "grupo": 4,
+        "opcao": "Ryu (Street FIghter)"
+    },
+    {
+        "grupo": 4,
+        "opcao": "Fox Mulder (Arquivo X)"
+    },
+    {
+        "grupo": 4,
+        "opcao": "Vegeta (Dragon Ball Z)"
+    },
+    {
+        "grupo": 4,
+        "opcao": "Jean Grey (X-Men)"
+    },
+    {
+        "grupo": 4,
+        "opcao": "Chun-Li (Street Fighter)"
+    },
+    {
+        "grupo": 4,
+        "opcao": "Michael Scott (The Office)"
+    },
+    {
+        "grupo": 4,
+        "opcao": "Optimus Prime (Tranformers)"
+    },
+    {
+        "grupo": 4,
+        "opcao": "Crash Bandicoot (Crash Bandicoot)"
+    },
+    {
+        "grupo": 4,
+        "opcao": "Blade (Blade, O Caçador de Vampiros)"
+    },
+    {
+        "grupo": 4,
+        "opcao": "Norman Bates (Psicose)"
+    },
+    {
+        "grupo": 4,
+        "opcao": "Magneto (X-Men)"
+    },
+    {
+        "grupo": 4,
+        "opcao": "Maximus (O Gladiador)"
+    },
+    {
+        "grupo": 4,
+        "opcao": "Hulk (Os Vingadores)"
+    },
+    {
+        "grupo": 4,
+        "opcao": "Ethan Hunt (Missão Impossível)"
+    },
+    {
+        "grupo": 4,
+        "opcao": "Joel (The Last Of Us)"
+    },
+    {
+        "grupo": 5,
+        "opcao": "V (V de Vingança)"
+    },
+    {
+        "grupo": 5,
+        "opcao": "Ellie (The Last of Us)"
+    },
+    {
+        "grupo": 5,
+        "opcao": "Mulher Gato (Batman)"
+    },
+    {
+        "grupo": 5,
+        "opcao": "Alex (Streets Of Rage)"
+    },
+    {
+        "grupo": 5,
+        "opcao": "Yusuke Urameshi (Yu-Yu Hakusho)"
+    },
+    {
+        "grupo": 5,
+        "opcao": "Tony Montana (Scarface)"
+    },
+    {
+        "grupo": 5,
+        "opcao": "Dentes-de-Sabre (X-Men)"
+    },
+    {
+        "grupo": 5,
+        "opcao": "Scorpion (Mortal Kombat)"
+    },
+    {
+        "grupo": 5,
+        "opcao": "Dana Scully (Arquivo X)"
+    },
+    {
+        "grupo": 5,
+        "opcao": "Dr. Manhathan (Watchemen)"
+    },
+    {
+        "grupo": 5,
+        "opcao": "Ace Ventura (Ace Ventura, Detetive)"
+    },
+    {
+        "grupo": 5,
+        "opcao": "T800 (Exterminador do Futuro)"
+    },
+    {
+        "grupo": 5,
+        "opcao": "Solid Snake (Metal Gear)"
+    },
+    {
+        "grupo": 5,
+        "opcao": "Scorpion (Homem-Aranha)"
+    },
+    {
+        "grupo": 5,
+        "opcao": "Milena (Mortal Kombat)"
+    },
+    {
+        "grupo": 5,
+        "opcao": "Denver (Casa de Papel)"
+    },
+    {
+        "grupo": 5,
+        "opcao": "She-Ra (She-Ra)"
+    },
+    {
+        "grupo": 5,
+        "opcao": "Richard B. Riddick (Riddick)"
+    },
+    {
+        "grupo": 5,
+        "opcao": "Jack Bauer (24 Horas)"
+    },
+    {
+        "grupo": 5,
+        "opcao": "Ken (Street Fighter)"
+    },
+    {
+        "grupo": 6,
+        "opcao": "Ricky (Ricky & Morty)"
+    },
+    {
+        "grupo": 6,
+        "opcao": "Shocker (Homem-Aranha)"
+    },
+    {
+        "grupo": 6,
+        "opcao": "Vasquez (Aliens)"
+    },
+    {
+        "grupo": 6,
+        "opcao": "Violator (Spawn)"
+    },
+    {
+        "grupo": 6,
+        "opcao": "Finn, O Humano (Hora de Aventura)"
+    },
+    {
+        "grupo": 6,
+        "opcao": "Hannibal Lecter (Silêncio dos Inocentes)"
+    },
+    {
+        "grupo": 6,
+        "opcao": "Aloy (Horizon: Zero Dawn)"
+    },
+    {
+        "grupo": 6,
+        "opcao": "Rick Grimmes (The Walking Dead)"
+    },
+    {
+        "grupo": 6,
+        "opcao": "Pernalonga (Looney Toones)"
+    },
+    {
+        "grupo": 6,
+        "opcao": "Feiticeira Escarlate (X-Men)"
+    },
+    {
+        "grupo": 6,
+        "opcao": "Han Solo (Star Wars)"
+    },
+    {
+        "grupo": 6,
+        "opcao": "Saruman, O Branco (Senhor dos Anéis)"
+    },
+    {
+        "grupo": 6,
+        "opcao": "Ezio Auditore (Assassin's Creed 2)"
+    },
+    {
+        "grupo": 6,
+        "opcao": "Axl F (Um Tira da Pesada)"
+    },
+    {
+        "grupo": 6,
+        "opcao": "Daryl Dixon (The Walking Dead)"
+    },
+    {
+        "grupo": 6,
+        "opcao": "Magin Boo (Dragon Ball Z)"
+    },
+    {
+        "grupo": 6,
+        "opcao": "Jon Snow (Game of Thrones)"
+    },
+    {
+        "grupo": 6,
+        "opcao": "Skeletor (He-Man)"
+    },
+    {
+        "grupo": 6,
+        "opcao": "Vampira (X-Men)"
+    },
+    {
+        "grupo": 6,
+        "opcao": "Professor (Casa de Papel)"
+    },
+    {
+        "grupo": 7,
+        "opcao": "Glenn (The Walking Dead)"
+    },
+    {
+        "grupo": 7,
+        "opcao": "Alucard (Castlevania)"
+    },
+    {
+        "grupo": 7,
+        "opcao": "Lion (Thundercats)"
+    },
+    {
+        "grupo": 7,
+        "opcao": "He-Man (He-Man)"
+    },
+    {
+        "grupo": 7,
+        "opcao": "Vergil (Devil May Cry)"
+    },
+    {
+        "grupo": 7,
+        "opcao": "Quico (Chaves)"
+    },
+    {
+        "grupo": 7,
+        "opcao": "Pirata Alma Negra (Chapolin)"
+    },
+    {
+        "grupo": 7,
+        "opcao": "Michone (The Walking Dead)"
+    },
+    {
+        "grupo": 7,
+        "opcao": "Kitana (Mortal Kombat)"
+    },
+    {
+        "grupo": 7,
+        "opcao": "Frank Castle (Punisher)"
+    },
+    {
+        "grupo": 7,
+        "opcao": "Mando (O Mandaloreano)"
+    },
+    {
+        "grupo": 7,
+        "opcao": "Coringa (Batman)"
+    },
+    {
+        "grupo": 7,
+        "opcao": "Jake, O Cão (Hora de Aventura)"
+    },
+    {
+        "grupo": 7,
+        "opcao": "Al Simmons (Spawn)"
+    },
+    {
+        "grupo": 7,
+        "opcao": "Mark Grayson (Invencible)"
+    },
+    {
+        "grupo": 7,
+        "opcao": "Mum Rah (Thundercats)"
+    },
+    {
+        "grupo": 7,
+        "opcao": "Predador (O Predador)"
+    },
+    {
+        "grupo": 7,
+        "opcao": "Rocky Balboa (Rocky IV)"
+    },
+    {
+        "grupo": 7,
+        "opcao": "Angela (Spawn)"
+    },
+    {
+        "grupo": 7,
+        "opcao": "Selena (Anjos da Noite)"
+    },
+    {
+        "grupo": 8,
+        "opcao": "Pato Donald (Mickey Mouse)"
+    },
+    {
+        "grupo": 8,
+        "opcao": "Chandler Biggs (FRIENDS)"
+    },
+    {
+        "grupo": 8,
+        "opcao": "Howard (Big Bang Theory)"
+    },
+    {
+        "grupo": 8,
+        "opcao": "Michael Meyers (Halloween)"
+    },
+    {
+        "grupo": 8,
+        "opcao": "Damon Salvatore (Vampire Diaries)"
+    },
+    {
+        "grupo": 8,
+        "opcao": "Viúva Negra (Os Vingadores)"
+    },
+    {
+        "grupo": 8,
+        "opcao": "Ororo Monroe/Storm (X-Men)"
+    },
+    {
+        "grupo": 8,
+        "opcao": "Bojack Horseman (Bojack Horseman)"
+    },
+    {
+        "grupo": 8,
+        "opcao": "Donkey Kong (Donkey Kong Country)"
+    },
+    {
+        "grupo": 8,
+        "opcao": "Gus (Sweet Tooth)"
+    },
+    {
+        "grupo": 8,
+        "opcao": "Rachel Green (FRIENDS)"
+    },
+    {
+        "grupo": 8,
+        "opcao": "Boromir (Senhor dos Anéis)"
+    },
+    {
+        "grupo": 8,
+        "opcao": "Bart Simpson (Os Simpsons)"
+    },
+    {
+        "grupo": 8,
+        "opcao": "Mulher Maravilha (Liga da Jusitiça)"
+    },
+    {
+        "grupo": 8,
+        "opcao": "Cable / Natham Summers (X-Men)"
+    },
+    {
+        "grupo": 8,
+        "opcao": "Dr. Doom (Quarteto Fantástico)"
+    },
+    {
+        "grupo": 8,
+        "opcao": "Luke Skywalker (Star Wars)"
+    },
+    {
+        "grupo": 8,
+        "opcao": "Mulher Invisível (Quartrto Fantástico)"
+    },
+    {
+        "grupo": 8,
+        "opcao": "Gohan (Dragon Ball Z)"
+    },
+    {
+        "grupo": 8,
+        "opcao": "Ikki de Fênix (Cavaleiros do Zodíaco)"
+    },
+    {
+        "grupo": 9,
+        "opcao": "Marin (Cavaleiros dos Zodíaco)"
+    },
+    {
+        "grupo": 9,
+        "opcao": "Freddy Krueger (A Hora do Pesadelo)"
+    },
+    {
+        "grupo": 9,
+        "opcao": "Zelda (Breath Of The Wild)"
+    },
+    {
+        "grupo": 9,
+        "opcao": "Liu Kang (Mortal Kombat)"
+    },
+    {
+        "grupo": 9,
+        "opcao": "Dexter (O Laboratório de Dexter)"
+    },
+    {
+        "grupo": 9,
+        "opcao": "Duke Nukem (Duke Nukem)"
+    },
+    {
+        "grupo": 9,
+        "opcao": "Leon S. Kennedy (Resident Evil 2)"
+    },
+    {
+        "grupo": 9,
+        "opcao": "Sarah Connor (Exterminador do Futuro)"
+    },
+    {
+        "grupo": 9,
+        "opcao": "Castiel (Supernatural)"
+    },
+    {
+        "grupo": 9,
+        "opcao": "Trinity (The Matrix)"
+    },
+    {
+        "grupo": 9,
+        "opcao": "Thomas Shelby (Peaky Blinders)"
+    },
+    {
+        "grupo": 9,
+        "opcao": "Eliot (Mr. Robot)"
+    },
+    {
+        "grupo": 9,
+        "opcao": "Homem-Aranha (Homem-Aranha)"
+    },
+    {
+        "grupo": 9,
+        "opcao": "Estelar (Jovens Titãs)"
+    },
+    {
+        "grupo": 9,
+        "opcao": "Yoga de Cisne (Cavaleiros do Zodíaco)"
+    },
+    {
+        "grupo": 9,
+        "opcao": "Jax Briggs (Mortal Kombat)"
+    },
+    {
+        "grupo": 9,
+        "opcao": "Geralt de Rívia (The Witcher)"
+    },
+    {
+        "grupo": 9,
+        "opcao": "Xenomorfo (Alien 2 O Resgate)"
+    },
+    {
+        "grupo": 9,
+        "opcao": "Demolidor (Demolidor)"
+    },
+    {
+        "grupo": 9,
+        "opcao": "Samwise Gamgee (Senhor dos Anéis)"
+    },
+    {
+        "grupo": 10,
+        "opcao": "Yennerfer (The Witcher)"
+    },
+    {
+        "grupo": 10,
+        "opcao": "O Sombra (O Sombra)"
+    },
+    {
+        "grupo": 10,
+        "opcao": "Blaze (Streets Of Rage)"
+    },
+    {
+        "grupo": 10,
+        "opcao": "Heather Manson (Silent Hill 3)"
+    },
+    {
+        "grupo": 10,
+        "opcao": "Bowser (Super Mario BROS)"
+    },
+    {
+        "grupo": 10,
+        "opcao": "Blanka (Street Fighter)"
+    },
+    {
+        "grupo": 10,
+        "opcao": "Xena (Xena, A Princesa Guerreira)"
+    },
+    {
+        "grupo": 10,
+        "opcao": "Steve Rogers (Capitão América)"
+    },
+    {
+        "grupo": 10,
+        "opcao": "Dante (Devil May Cry)"
+    },
+    {
+        "grupo": 10,
+        "opcao": "Monkey D. Luffy (One Piece)"
+    },
+    {
+        "grupo": 10,
+        "opcao": "T'Chala (Pantera Negra)"
+    },
+    {
+        "grupo": 10,
+        "opcao": "Katniss Everdeen (Jogos Vorazes)"
+    },
+    {
+        "grupo": 10,
+        "opcao": "Robocop (Robocop III)"
+    },
+    {
+        "grupo": 10,
+        "opcao": "Isaac Clarke (Dead Space)"
+    },
+    {
+        "grupo": 10,
+        "opcao": "Arqueiro Verde (Arqueiro Verde)"
+    },
+    {
+        "grupo": 10,
+        "opcao": "Jack (Samurai Jack)"
+    },
+    {
+        "grupo": 10,
+        "opcao": "Stephan Salvatore (Vampire Diaries)"
+    },
+    {
+        "grupo": 10,
+        "opcao": "Rambo (Rambo IV)"
+    },
+    {
+        "grupo": 10,
+        "opcao": "Pantro (Thundercasts)"
+    },
+    {
+        "grupo": 10,
+        "opcao": "Bispo (X-Men)"
+    }
+]
