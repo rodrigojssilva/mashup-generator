@@ -10,8 +10,8 @@ $animationDuration:  3s;
 
 $angle: 45deg;
 $sideAngle: 360deg/5;
-$opacity: 0.75;
-$color: rgba(30, 180, 20, $opacity);
+$opacity: 0.9;
+$color: rgba(255, 255, 0, $opacity);
 
 $translateZ: $upperHeight*0.34;
 $translateY: $lowerHeight*0.29;
@@ -116,8 +116,8 @@ body {
       top: $upperHeight*0.25;
       left: -$internalWidth;
       color: #fff;
-      text-shadow: 1px 1px 3px #000;
-      font-size: $upperHeight*0.6;
+      text-shadow: 1px 1px 4px #000;
+      font-size: $upperHeight*0.5;
       text-align: center;
       line-height: $upperHeight;
       width: $internalWidth*2;
