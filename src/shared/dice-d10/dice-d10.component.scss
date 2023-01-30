@@ -45,7 +45,6 @@ body {
   height: 100%;
   transform-style: preserve-3d;
   transition: transform $transitionDuration ease-out;
-  cursor: pointer;
   
   transform: rotateX(-$angle);
   

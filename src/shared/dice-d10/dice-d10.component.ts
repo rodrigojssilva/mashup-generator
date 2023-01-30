@@ -34,7 +34,7 @@ export class DiceD10Component implements OnInit {
 
         this.timeoutId = setTimeout(() => {
             let ranNum = this.randomFace();
-            this._mashupService.grupo = ranNum;
+            this._mashupService.grupo = ranNum == 0 ? 10 : ranNum;
             this._mashupService.escolhidos = [];            
             this._mashupService.grupoEscolhido = this._mashupService.listaDePersonagens.filter(x => x.grupo == this._mashupService.grupo);
             this.rollTo(ranNum);

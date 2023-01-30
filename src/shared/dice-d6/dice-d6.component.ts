@@ -33,47 +33,61 @@ export class DiceD6Component implements OnInit {
             return;
         }
 
-        let xRand = this.getRandom();
-        let yRand = this.getRandom();
-
-        this._mashupService.showConstrucao = true;
-
-        this.$die.style.webkitTransform = 'rotateX(' + xRand + 'deg) rotateY(' + yRand + 'deg)';
-        this.$die.style.transform = 'rotateX(' + xRand + 'deg) rotateY(' + yRand + 'deg)';
-
         let ranNum = this.getRandomNumber();
+        console.log(`d6: ${ranNum}`);
+        let xRand = 0;
+        let yRand = 0;
+
         switch (ranNum) {
             case 1:
+                xRand = 0; yRand = 0;
                 this.setStringPoder(this._mashupService.escolhidos[0], this._mashupService.escolhidos[2]);
                 this.setStringFraqueza(this._mashupService.escolhidos[2], this._mashupService.escolhidos[1]);
                 this.setStringPersonalidade(this._mashupService.personagem, this._mashupService.escolhidos[1]);
                 break;
             case 2:
+                xRand = 0; yRand = 180;
                 this.setStringPoder(this._mashupService.escolhidos[0], this._mashupService.escolhidos[1]);
                 this.setStringFraqueza(this._mashupService.escolhidos[2], this._mashupService.personagem);
                 this.setStringPersonalidade(this._mashupService.personagem, this._mashupService.escolhidos[0]);
                 break;
             case 3:
+                xRand = 0; yRand = -90;
                 this.setStringPoder(this._mashupService.personagem, this._mashupService.escolhidos[1]);
                 this.setStringFraqueza(this._mashupService.escolhidos[0], this._mashupService.escolhidos[2]);
                 this.setStringPersonalidade(this._mashupService.escolhidos[1], this._mashupService.escolhidos[0]);
                 break;
             case 4:
+                xRand = 0; yRand = 90;
                 this.setStringPoder(this._mashupService.escolhidos[2], this._mashupService.escolhidos[1]);
                 this.setStringFraqueza(this._mashupService.escolhidos[0], this._mashupService.personagem);
                 this.setStringPersonalidade(this._mashupService.escolhidos[2], this._mashupService.personagem);
                 break;
             case 5:
+                xRand = -90; yRand = 0;
                 this.setStringPoder(this._mashupService.personagem, this._mashupService.escolhidos[2]);
                 this.setStringFraqueza(this._mashupService.escolhidos[0], this._mashupService.escolhidos[1]);
                 this.setStringPersonalidade(this._mashupService.escolhidos[2], this._mashupService.escolhidos[0]);
                 break;
             case 6:
+                xRand = 90; yRand = 0;
                 this.setStringPoder(this._mashupService.personagem, this._mashupService.escolhidos[1]);
                 this.setStringFraqueza(this._mashupService.personagem, this._mashupService.escolhidos[1]);
                 this.setStringPersonalidade(this._mashupService.escolhidos[1], this._mashupService.escolhidos[2]);
                 break;
         }
+
+        this.rotateDice(0, 0);
+        this.rotateDice(xRand, yRand);
+
+        this._mashupService.showConstrucao = true;
+    }
+
+    rotateDice(xRand: number, yRand: number): void {
+        let rotateTo = 'rotateX(' + xRand + 'deg) rotateY(' + yRand + 'deg)';
+
+        this.$die.style.webkitTransform = rotateTo;
+        this.$die.style.transform = rotateTo;
     }
 
     getRandomNumber() {

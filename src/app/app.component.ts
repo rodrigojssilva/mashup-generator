@@ -1,5 +1,4 @@
 import { Component, ViewChild } from '@angular/core';
-import { listaDePersonagens } from 'src/services/lista-de-personagens.service';
 import { MashupService } from 'src/services/mashup.service';
 import { DiceD20Component } from 'src/shared/dice-d20/dice-d20.component';
 import { DiceD6Component } from 'src/shared/dice-d6/dice-d6.component';
@@ -20,39 +19,8 @@ export class AppComponent {
 
   title = 'mashup-generator';
 
-  haveIt: any[] = [];
-
   constructor(
     public _mashupService: MashupService
   ) { }
 
-  // rolld10(): void {
-  //   this._mashupService.escolhidos = [];
-  //   this._mashupService.showConstrucao = false;
-  //   this.dice_d20.resetD20();
-  //   this._mashupService.grupo = 0;
-  //   this._mashupService.grupo = this.generateUniqueRandom(1, 10);
-  //   this._mashupService.grupoEscolhido = listaDePersonagens.filter(x => x.grupo == this._mashupService.grupo);
-  // }
-
-  generateUniqueRandom(maxNr: number, length: number): any {
-    //Generate random number
-    let random = (Math.random() * length).toFixed();
-
-    //Coerce to number by boxing
-    let random2 = Number(random);
-
-    if (!this.haveIt.includes(random)) {
-      this.haveIt.push(random);
-      return random2;
-    } else {
-      if (this.haveIt.length < maxNr) {
-        //Recursively generate number
-        return this.generateUniqueRandom(maxNr, length);
-      } else {
-        console.log('No more numbers available.')
-        return;
-      }
-    }
-  }
 }
