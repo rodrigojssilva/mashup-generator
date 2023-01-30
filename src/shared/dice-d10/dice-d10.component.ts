@@ -22,7 +22,7 @@ export class DiceD10Component implements OnInit {
     ) { }
 
     ngOnInit(): void {
-        this.$die = $('.die');
+        this.$die = $('.dice10');
     }
 
     resetD10(): void {

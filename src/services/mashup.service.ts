@@ -12,7 +12,7 @@ export class MashupService {
   grupoEscolhido: any[] = [];
   
   escolhidos: string[] = [];
-  construcao: string[] = [];
+  showConstrucao: boolean = false;
 
   poder_1: string = '';
   poder_2: string = '';

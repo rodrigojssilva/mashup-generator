@@ -35,6 +35,7 @@ export class DiceD20Component implements OnInit {
             return;
         }
 
+        this._mashupService.showConstrucao = false;
         clearTimeout(this.timeoutId);
 
         this.timeoutId = setTimeout(() => {

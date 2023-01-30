@@ -30,15 +30,11 @@
       <dice-d20 #dice_d20></dice-d20>
     </div>
     <div class="col-4">
-      <button type="button" class="btn btn-danger" style="margin-top: 5px;" (click)="rolld6()">
+      <button type="button" class="btn btn-danger" style="margin-top: 5px;" (click)="dice_d6.rollDiceD6()">
         Roll d6!
       </button>
+      <dice-d6 #dice_d6></dice-d6>
     </div>
-  </div>
-
-
-  <div>
-    grupo: {{_mashupService.grupo}}
   </div>
 
   <div class="row" style="margin-top: 10px;" *ngIf="_mashupService.escolhidos.length > 0">
@@ -50,7 +46,7 @@
     </div>
   </div>
 
-  <div class="row" style="margin-top: 10px;" *ngIf="_mashupService.construcao.length > 0">
+  <div class="row" style="margin-top: 10px;" *ngIf="_mashupService.showConstrucao">
     <div class="col-12">
       <h5>Seu personagem deverá ter:</h5>
       <ul>
